@@ -1,0 +1,12 @@
+# PowerShell
+*.ps1xml
+*.psd1
+
+# Credentials and sensitive data
+*credentials*
+*password*
+*.pfx
+*.key
+
+# Azure
+.azure/
